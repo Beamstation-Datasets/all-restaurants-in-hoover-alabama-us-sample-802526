@@ -1,6 +1,6 @@
 # All Restaurants in Hoover, Alabama, US
 
-> Free BeamStation sample export with 36 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `802526` |
 | Location | Hoover |
 | Category | Restaurants |
-| Full dataset size | 368 records |
-| Free sample size | 36 records (9.78%) |
-| Last export | 2026-04-09T15:20:23.417230+00:00 |
+| Full dataset size | 357 records |
+| Free sample size | 35 records (9.8%) |
+| Last export | 2026-04-16T17:42:02.893432+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hoover-alabama-us-sample-802526/releases/download/sample-latest/beamstation_802526_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
