@@ -1,12 +1,12 @@
 {
-  "export_job_id": "958f0e82-5359-42c5-8032-314f662ea99d",
+  "export_job_id": "bcefca63-f5f0-4543-a455-b351182bb98b",
   "id_short": 802526,
-  "published_at": "2026-04-23T19:41:04Z",
+  "published_at": "2026-05-01T07:09:13Z",
   "repo_name": "all-restaurants-in-hoover-alabama-us-sample-802526",
   "sample_asset_name": "beamstation_802526_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/802526/beamstation_802526_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "d3f108e0a0c166c5054e63647a7862a995e7b8fd0632a4259fad6a5c5b6dbd7d",
-  "sample_size_bytes": 116740,
-  "total_records": 267
+  "sample_records": 36,
+  "sample_sha256": "910deabe0e782a5bae54ba1af998d5ac48a3ca0cc6dd2c550de8959bd698fe9c",
+  "sample_size_bytes": 131460,
+  "total_records": 369
 }
